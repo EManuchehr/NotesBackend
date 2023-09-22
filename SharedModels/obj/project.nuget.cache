@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMFakZd89YTqY/2PhxMlyAnHo3xsbvzzklAwcHcZdKwJNjdhLBm/aCllWEL7XDme46pwoMgpAnjT1a8BJAf0dw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\M_Abduraupov\\Desktop\\NotesBackend\\SharedModels\\SharedModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.0.0\\microsoft.identitymodel.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.0.0\\microsoft.identitymodel.jsonwebtokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.identitymodel.logging\\7.0.0\\microsoft.identitymodel.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.0.0\\microsoft.identitymodel.tokens.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.0.0\\system.identitymodel.tokens.jwt.7.0.0.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\M_Abduraupov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
