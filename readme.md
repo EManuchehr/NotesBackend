@@ -10,35 +10,35 @@
 
 2. **Склонируйте репозиторий**: Склонируйте этот репозиторий на свой компьютер с помощью Git:
 
-   ```
-   git clone https://github.com/EManuchehr/NotesBackend.git
-   ```
+```
+git clone https://github.com/EManuchehr/NotesBackend.git
+```
 
 3. **Настройка базы данных**: Проект Notes использует Entity Framework Core и Fluent API для работы с базой данных. В файле `appsettings.json`, укажите параметры подключения к вашей базе данных.
 
 4. **Установите зависимости**: Перейдите в каталог проекта и выполните следующую команду для восстановления всех зависимостей:
 
-   ```
-   cd NotesBackend
-   dotnet restore
-   ```
+```
+cd NotesBackend
+dotnet restore
+```
 
 5. **Примените миграции**: Выполните миграции для создания структуры базы данных:
 
-   ```
-   dotnet ef database update AddInitProject --project .\Persistence\Persistence.csproj --startup-project .\WebApi\WebApi.csproj --context NotesDbContext
-   ```
+```
+dotnet ef database update AddInitProject --project .\Persistence\Persistence.csproj --startup-project .\WebApi\WebApi.csproj --context NotesDbContext
+```
 
 6. **Настройка JWT**: В файле `appsettings.json` настройте параметры JWT-токена, необходимые для аутентификации.
 
 7. **Соберите и запустите приложение**: Выполните следующие команды:
 
-   ```
-   dotnet build
-   dotnet run
-   ```
+```
+dotnet build
+dotnet run
+```
 
-   Это запустит приложение Notes на вашем локальном сервере.
+Это запустит приложение Notes на вашем локальном сервере.
 
 
 ## Особенности
@@ -72,8 +72,8 @@
 
 ## Авторы
 
-- Ваше имя
-- Ваша электронная почта
-- Ссылка на ваш профиль GitHub
+- Манучехр Абдураупов
+- manu1411@mail.ru
+- [Ссылка на профиль GitHub](https://github.com/EManuchehr/)
 
 Спасибо, что выбрали приложение Notes! Надеемся, оно будет полезным для ваших потребностей в управлении заметками и записями с использованием передовых технологий и инструментов. Если у вас есть какие-либо вопросы или предложения, не стесняйтесь обращаться к нам.
